@@ -448,12 +448,12 @@ export default function LoanLanding() {
               </div>
             </div>
 
-            <div className="relative mx-auto w-full max-w-[590px] lg:ml-auto">
+            <div className="relative mx-auto w-full max-w-147.5 lg:ml-auto">
               <div className="absolute -right-4 -top-4 h-28 w-28 rounded-tr-[36px] border-r-8 border-t-8 border-[#EAAA00] sm:-right-6 sm:-top-6" />
 
               <div className="relative overflow-hidden rounded-[20px] rounded-br-[76px] bg-[#DCE5EF] shadow-2xl shadow-[#002855]/15">
                 <Image
-                  src="/images/firstbank-sme-hero.jpg"
+                  src="/images/firstbank-sme-hero.webp"
                   alt="Business owners working together to plan the future of their business"
                   width={1100}
                   height={1200}
@@ -507,7 +507,7 @@ export default function LoanLanding() {
               },
               {
                 title: "Take your next step",
-                text: "Connect with the bank to discuss your needs.",
+                text: "Connect with first bank to discuss your needs.",
               },
             ].map((item, index) => (
               <div
@@ -685,20 +685,20 @@ export default function LoanLanding() {
         </section>
 
         <section className="bg-[#002855] py-16 sm:py-20">
-          <div className="mx-auto max-w-[1240px] px-5 sm:px-8 lg:px-10">
+          <div className="mx-auto max-w-310 px-5 sm:px-8 lg:px-10">
             <div className="relative overflow-hidden rounded-2xl border border-white/10 bg-[#003B65] px-6 py-10 sm:px-10 sm:py-14 lg:px-14">
               <div className="absolute -right-16 -top-24 h-72 w-72 rounded-full border border-white/10" />
               <div className="absolute -right-4 -top-12 h-52 w-52 rounded-full border border-[#EAAA00]/30" />
 
               <div className="relative z-10 flex flex-col items-start justify-between gap-8 md:flex-row md:items-center">
-                <div className="max-w-[690px]">
+                <div className="max-w-172.5">
                   <span className="inline-flex items-center gap-2 text-xs font-bold uppercase tracking-[0.2em] text-[#F7CE67]">
                     <span className="h-1 w-7 bg-[#EAAA00]" />
                     Your next chapter
                   </span>
 
                   <h2 className="mt-5 text-3xl font-bold leading-tight tracking-tight text-white sm:text-4xl">
-                    Every business milestone begins with a decision.
+                    Every business milestone begins with a good decision.
                   </h2>
 
                   <p className="mt-4 max-w-[600px] text-sm leading-7 text-blue-100 sm:text-base">
