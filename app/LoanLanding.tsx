@@ -825,7 +825,7 @@ export default function LoanLanding() {
               </p>
 
               <p className="mt-4 text-xs text-slate-500">
-                © {new Date().getFullYear()} FirstBank SME Growth Loan concept.
+                © 2026 FirstBank SME Growth Loan concept.
                 All rights reserved.
               </p>
             </div>
