@@ -291,7 +291,7 @@ export default function LoanLanding() {
             aria-label="FirstBank SME Growth Loan home"
           >
             <Image
-              src="/images/firstbank-logo.svg"
+              src="/images/firstbank-logo.png"
               alt="FirstBank Nigeria"
               width={210}
               height={62}
@@ -453,7 +453,7 @@ export default function LoanLanding() {
 
               <div className="relative overflow-hidden rounded-[20px] rounded-br-[76px] bg-[#DCE5EF] shadow-2xl shadow-[#002855]/15">
                 <Image
-                  src="/images/firstbank-sme-hero.webp"
+                  src="/images/firstbank-sme-hero.jpg"
                   alt="Business owners working together to plan the future of their business"
                   width={1100}
                   height={1200}
@@ -773,7 +773,7 @@ export default function LoanLanding() {
             <div className="flex flex-col gap-7 md:flex-row md:items-center md:justify-between">
               <a href="#home" aria-label="Back to top">
                 <Image
-                  src="/images/firstbank-logo.svg"
+                  src="/images/firstbank-logo.png"
                   alt="FirstBank Nigeria"
                   width={190}
                   height={56}

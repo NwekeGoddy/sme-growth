@@ -2,8 +2,8 @@ import LoanLanding from "./LoanLanding";
 
 export default function HomePage() {
 return (
-<main>
+<div>
 <LoanLanding />
-</main>
+</div>
 );
 }
